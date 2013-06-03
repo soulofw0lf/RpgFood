@@ -1,0 +1,5 @@
+#Food:
+#  Tasty_Diamond_Chestplate:  //custom display name for the item
+#    ItemID: '311'    //item id of a diamond chestplate
+#    health: '500'    // ammount of healling it does total
+#    time: '12'       //ammount of seconds it takes to get the full healling

@@ -1,0 +1,7 @@
+name: RpgFood
+main: com.vartala.soulofw0lf.rpgfood.RpgFood
+version: 1.3
+commands:
+    food:
+        description: add an item to the food list
+        usage: /<food> <item id> <item name> <health amount> <time>
