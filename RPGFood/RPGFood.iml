@@ -27,6 +27,7 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="craftbukkit-1.5.2-R0.2-20130512.060215-4" level="project" />
   </component>
 </module>
 
